@@ -1,0 +1,9 @@
+Dirección del sitio: 
+
+Nombre de la alumna: María Cecilia Cousido
+Carrera: Diseño Gráfico
+Materia: Diseño Web
+Turno: Tarde
+Navegador que se usó para testear: https://validator.w3.org/#validate_by_input
+Cantidad de horas aprox. dedicadas al trabajo práctico: 18 hrs aproximadamente.
+Nota de tp 2 recibida: 9 
